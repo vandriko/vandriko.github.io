@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @v_andrikopoulos
+  username               : v_andrikopoulos
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@v_andrikopoulos"
+  twitter          : "v_andrikopoulos"
   vine             :
   weibo            :
   xing             :
