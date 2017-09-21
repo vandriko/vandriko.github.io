@@ -15,11 +15,11 @@ Strauch. 2016. “Middleware-Oriented Deployment Automation for Cloud
 Applications.” _Transactions on Cloud Computing (TCC)_  (in pre-print).
 IEEE.
 *  Gómez Sáez, Santiago, Vasilios Andrikopoulos, Frank Leymann, and Steve
-Strauch. 2014a. “Design Support for Performance Aware Dynamic
+Strauch. 2014. “Design Support for Performance Aware Dynamic
 Application (Re-) Distribution in the Cloud.” _Services Computing, IEEE
 Transactions on_ 8 (2). IEEE: 225-239.
 * Strauch, Steve, Vasilios Andrikopoulos, Santiago Gomez, and Frank
-Leymann. 2013. “ESB\^MT: A Multi-Tenant Aware Enterprise Service Bus.”_: International Journal of Next-Generation Computing (IJNGC)_ 4 (3). Perpetual Innovation Media Pvt. Ltd.: 230-249
+Leymann. 2013. “ESB\^MT: A Multi-Tenant Aware Enterprise Service Bus.” _International Journal of Next-Generation Computing (IJNGC)_ 4 (3). Perpetual Innovation Media Pvt. Ltd.: 230-249
 * Andrikopoulos, Vasilios, Tobias Binz, Frank Leymann, and Steve Strauch.
 2013. “How to Adapt Applications for the Cloud Environment.” _Computing_
 95 (6). Springer: 493–535.
