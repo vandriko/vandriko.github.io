@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Diploma Degree in Computer Science from the Computer Engineering & Informatics Department, University of Patras, Greece, 2003
+* Post-graduate degree (equivalent to MSc) in Computer Science and Engineering from the Computer Engineering & Informatics Department, University of Patras, Greece, 2006
+* Ph.D in Computer Science (cum laude) from the Department of Information Systems & Management, Tilburg University, the Netherlands, 2010. Dissertation title: A Model and Theory for the Evolution of Software Services.
+
+Scholarships
+======
+* 2006-2010: CentER graduate school, Tilburg University PhD scholarship
+* 1998-2002: Scholarship of the Ioannou S. Latsi Foundation
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov. 2016 - today: Assistant professor (tenure track) in the Software Engineering group of the Computer Science Department at the University of Groningen.
+* Sep. 2011 - May 2016: Postdoc at the Institute of Architecture of Application Systems (IAAS), University of Stuttgart, Germany
+  * Leader of the Cloud Infrastructure research group
+  * Worked for projects [4Caast](http://www.4caast.eu/) and [ALLOW Ensembles](http://www.allow-ensembles.eu/) 
+  * Mentored and worked with a number of PhD students
+* Sep. 2010 - Aug. 2011: Postdoc at the European Research Institute in Service Science (ERISS), Tilburg University, the Netherlands
+  * I worked for the Network of Excellence [S-Cube](http://www.s-cube-network.eu/)
+* Mar. 2008 - Aug. 2010: Post-graduate researcher for Tilburg University in project [S-Cube](http://www.s-cube-network.eu/)
+* Sep. 2006 - Mar. 2008: Member of Infolab, Tilburg University
+* Sep. 2001 - Aug. 2004: Researcher and junior engineer of the Databases Laboratory, Computer Engineering & Informatics Department, University of Patras, Greece
+  * I worked for project BalkaNet: "Design and Development of a Multilingual Balkan WordNet" funded by the European Union under the framework of the program: IST Programme(IST-2000-29388).
+* Oct. 2000 - Aug. 2001: Researcher for the Research Academic Computer Technology Institute, Greece
+  * I worked for projects DIALEXIKO: "Development of a Linguistic Database for the Greek Language Organized in Semantically Related Sets", funded by the EPEAEK, Ministry of Development, and EC-MT-GPS: “Development of a Machine Translation System for Greek in Public Administrations”, funded by the European Union under the framework of the program: MultiLingual Information Society Programme (MLIS-4004).____
   
-Skills
+Service & Engagement
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* This list to be filled in soon.
