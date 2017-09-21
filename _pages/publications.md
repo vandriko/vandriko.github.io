@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+date: 2017-09-21
 ---
 
 This page will be updated soon. In the meantime, you can find my publications on <u><a href="https://scholar.google.nl/citations?user=WZAn2CwAAAAJ&hl=en">my Google Scholar profile</a>.</u> 
