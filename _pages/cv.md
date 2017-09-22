@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Diploma Degree in Computer Science from the Computer Engineering & Informatics Department, University of Patras, Greece, 2003
-* Post-graduate degree (equivalent to MSc) in Computer Science and Engineering from the Computer Engineering & Informatics Department, University of Patras, Greece, 2006
-* Ph.D in Computer Science (cum laude) from the Department of Information Systems & Management, Tilburg University, the Netherlands, 2010. Dissertation title: A Model and Theory for the Evolution of Software Services.
+* Diploma Degree in Computer Science from the [Computer Engineering & Informatics Department](https://www.ceid.upatras.gr/), University of Patras, Greece, 2003
+* Post-graduate degree (equivalent to MSc) in Computer Science and Engineering from the [Computer Engineering & Informatics Department](https://www.ceid.upatras.gr/), University of Patras, Greece, 2006
+* Ph.D in Computer Science (cum laude) from the [Department of Information Systems & Management](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/management/), Tilburg University, the Netherlands, 2010. Dissertation title: A Model and Theory for the Evolution of Software Services.
 
 Scholarships
 ======
@@ -22,12 +22,12 @@ Scholarships
 
 Work experience
 ======
-* Nov. 2016 - today: Assistant professor (tenure track) in the Software Engineering group of the Computer Science Department at the University of Groningen.
-* Sep. 2011 - May 2016: Postdoc at the Institute of Architecture of Application Systems (IAAS), University of Stuttgart, Germany
+* Nov. 2016 - today: Assistant professor (tenure track) in the [Software Engineering and Architecture group](http://www.cs.rug.nl/search/Main/HomePage) of the Computer Science Department at the University of Groningen.
+* Sep. 2011 - May 2016: Postdoc at the [Institute of Architecture of Application Systems (IAAS)](http://www.iaas.uni-stuttgart.de/), University of Stuttgart, Germany
   * Leader of the Cloud Infrastructure research group
   * Worked for projects [4Caast](http://www.4caast.eu/) and [ALLOW Ensembles](http://www.allow-ensembles.eu/) 
   * Mentored and worked with a number of PhD students
-* Sep. 2010 - Aug. 2011: Postdoc at the European Research Institute in Service Science (ERISS), Tilburg University, the Netherlands
+* Sep. 2010 - Aug. 2011: Postdoc at the [European Research Institute in Service Science (ERISS)](https://www.tilburguniversity.edu/research/institutes-and-research-groups/eriss/), Tilburg University, the Netherlands
   * I worked for the Network of Excellence [S-Cube](http://www.s-cube-network.eu/)
 * Mar. 2008 - Aug. 2010: Post-graduate researcher for Tilburg University in project [S-Cube](http://www.s-cube-network.eu/)
 * Sep. 2006 - Mar. 2008: Member of Infolab, Tilburg University
