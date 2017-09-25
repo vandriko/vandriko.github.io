@@ -62,7 +62,7 @@ Cloud Computing (CLOUD 2013)_, 565–72. IEEE Computer Society.
 2013. “How to Adapt Applications for the Cloud Environment.” _Computing_
 95 (6). Springer: 493–535.
 
-## <a href="Service_Middleware"></a>
+## <a href="#Service_Middleware">Cloud-enabling Service Middleware</a>
 
 * Gómez Sáez, Santiago, Vasilios Andrikopoulos, Michael Hahn, Dimka
 Karastoyanova, and Andreas Weiß. 2015. “Enabling Reusable and Adaptive
@@ -91,7 +91,7 @@ and Steve Strauch. 2012. “Challenges for the Comprehensive Management of
 Cloud Services in a Paas Framework.” _Scalable Computing: Practice and
 Experience_ 13 (3).
 
-## <a href="Service_Evolution"></a>
+## <a href="Service_Evolution">Service Evolution</a>
 
 * Andrikopoulos, Vasilios, Salima Benbernou, and Michael P. Papazoglou.
 2012. “On the Evolution of Services.” _Software Engineering, IEEE
