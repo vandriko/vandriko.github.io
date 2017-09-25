@@ -5,6 +5,7 @@ excerpt: 'Papers on cloud migration and Cloud-based application (CBA) engineerin
 date: 2013-10-01
 ---
 
+Papers on cloud migration and Cloud-based application (CBA) engineering:
 * Wettinger, Johannes, Vasilios Andrikopoulos, Frank Leymann, and Steve
 Strauch. 2016. “Middleware-Oriented Deployment Automation for Cloud
 Applications.” _Transactions on Cloud Computing (TCC)_  (in pre-print).
