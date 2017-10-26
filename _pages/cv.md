@@ -38,4 +38,14 @@ Work experience
   
 Service & Engagement
 ======
-* This list to be filled in soon.
+* I am serving (or have served in the past) in a number of PCs for conferences (e.g. ESOCC, ICWS, ISCOC, ATC) and workshops (e.g. ME, CloudWays, WAS4FI).
+* Reviewer for (among others):
+    *  ACM Transactions on Software Engineering and Methodology (TOSEM)
+    *  Computing
+    *  Future Generation Computer Systems (FGCS)
+    *  IEEE Software
+    *  IEEE Transactions on Cloud Computing (TCC)
+    *  IEEE Transactions on Services Computing (TSC)
+    *  Journal of Software: Evolution and Process (JSME)
+    *  Journal of Systems and Software (JSS)
+    *  Service Oriented Computing and Applications Journal (SOCA)
