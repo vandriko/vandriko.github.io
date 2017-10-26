@@ -8,7 +8,7 @@ date: 2017-09-25
 
 This page contains a selection of articles and papers across research areas that I have been/am currently working on. You can find my (full list of) publications on <u><a href="https://scholar.google.nl/citations?user=WZAn2CwAAAAJ&hl=en">my Google Scholar profile</a>.</u> 
 
-## <a href="CAS_SoS">Collective Adaptive Systems and Systems of Systems</a>
+## Collective Adaptive Systems and Systems of Systems ## {#CAS_SoS}
 
 * Andrikopoulos, Vasilios, Marina Bitsaki, Santiago Goméz Sáez, Michael
 Hahn, Dimka Karastoyanova, Giorgos Koutras, and Alina Psycharaki. 2016.
