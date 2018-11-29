@@ -2,3 +2,5 @@ _site/
 
 _pages/cv.html
 _pages/publications.md_
+*.sublime-workspace
+*.sublime-project

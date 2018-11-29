@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can access my full CV [here](http://vandriko.github.io/files/Vasilios_Andrikopoulos_CV_public.pdf). A short summary follows:
+
 Education
 ======
 * Diploma Degree in Computer Science from the [Computer Engineering & Informatics Department](https://www.ceid.upatras.gr/), University of Patras, Greece, 2003
