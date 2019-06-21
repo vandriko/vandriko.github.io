@@ -22,7 +22,7 @@ The points are not Latex-specific, except when identified as such. Remember folk
 
 # Fonts and Special Characters
 
-* German-style quotation marks must be used for consistency in latex: \`quote\' for single, and \`\`quote\'\' for double
+* German-style quotation marks must be used for consistency in latex: `` `quote' `` for single, and `` ````quote'' `` for double
 
 # Language and Structure
 
@@ -30,6 +30,7 @@ The points are not Latex-specific, except when identified as such. Remember folk
 * There is no I in academic writing, at least not one after the 1960s. Use either the royal "we" or an indirect construction to indicate who did this task/experiment/etc.
 * Avoid the excessive use of passive voice except if necessary --- it has been overused to avoid claiming responsibility for the outcomes.
 * Avoid multiple nested sentences. Keep it simple
+* Sentences in academic writing do not start with And, But, or Or. Probably because we want to sound sophisticated
 * The use of signposting sentences (the previous chapter discussed X, this chapter discusses Y) is strongly recommended for chapter openings, comes in handy at section openings when the previous section was too long or when the section being opened deviates the narrative flow; any use of it below this level is probably excessive and patronizing to the reader
 
 # Common Mistakes
