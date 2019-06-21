@@ -13,7 +13,7 @@ The points are not Latex-specific, except when identified as such. Remember folk
 # Labels and Floats
 
 * Labels must Capitalize their initial letter if numbered (e.g. Chapter 1, Section 2.1, Table 3.2, Figure 4.5, etc.) but not when used without it (e.g. in the previous chapter, in the section that follows, in the table below, etc.)
-* Labels and their numbers (e.g. Figure 4.3) must not be allowed to break; in Latex always use ~ (e.g. in~\ref{fig:Fig1}), and/or \mbox{} if necessary
+* Labels and their numbers (e.g. Figure 4.3) must not be allowed to break; in Latex always use ~ (e.g. `in~\ref{fig:Fig1})`, and/or `\mbox{}` if necessary
 * Section headers (of any level) must not be allowed to page break from their content
 * Sections with single subsections (e.g. Section 2.2 has only one subsection 2.2.1) must be avoided by merging the subsection into the section, removing the numbering from the subsection level, or spinning the subsection into its own section if possible
 * Section numbering should finish at sub-section level; everything after that should appear as unnumbered except if the template used explicitly requests it (subsubsection at worst)
@@ -22,7 +22,7 @@ The points are not Latex-specific, except when identified as such. Remember folk
 
 # Fonts and Special Characters
 
-* German-style quotation marks must be used for consistency in latex: `quote' for single, and ``quote'' for double
+* German-style quotation marks must be used for consistency in latex: \`quote\' for single, and \`\`quote\'\' for double
 
 # Language and Structure
 
