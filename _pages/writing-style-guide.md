@@ -28,6 +28,7 @@ The points are not Latex-specific, except when identified as such. Remember folk
 
 * Contractions (it's, we'll, they won't, etc.) are not allowed; the possessive apostroph (as in, look up the word's meaning) is not a contraction and it is therefore exempted
 * There is no I in academic writing, at least not one after the 1960s. Use either the royal "we" or an indirect construction to indicate who did this task/experiment/etc.
+* The use of 2nd person ('you') is strictly forbidden, except if you want to address the reader directly, for whatever reason. 
 * Avoid the excessive use of passive voice except if necessary --- it has been overused to avoid claiming responsibility for the outcomes.
 * Avoid multiple nested sentences. Keep it simple
 * Sentences in academic writing do not start with And, But, or Or. Probably because we want to sound sophisticated
