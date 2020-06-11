@@ -8,7 +8,8 @@ date: 2019-06-21
 
 This is a short writing style guide I put together after spotting a number of issues repeating across many reports on all levels (BSc, MSc, PhD). Do keep in mind that this guide is not definite, and definitely biased towards my preferences. 
 
-The points are not Latex-specific, except when identified as such. Remember folks, the [Latex Wikibook](https://en.wikibooks.org/wiki/LaTeX) is your friend!
+The points are not LaTeX-specific, except when identified as such. Remember folks, the [Latex Wikibook](https://en.wikibooks.org/wiki/LaTeX) is your friend! 
+Check out also Diomidis Spinellis' excellent [Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice) but do keep in mind that some of this advice is better for paper-writing than thesis-writing.
 
 # Labels and Floats
 
@@ -19,6 +20,7 @@ The points are not Latex-specific, except when identified as such. Remember folk
 * Section numbering should finish at sub-section level; everything after that should appear as unnumbered except if the template used explicitly requests it (subsubsection at worst)
 * Figures and other floats must not be orphans (i.e. alone in a page) except if absolutely necessary e.g. due to their size
 * Make sure that the font in any figure is at least as big as the caption size
+* Captions must be self-descriptive and -contained
 
 # Fonts and Special Characters
 
