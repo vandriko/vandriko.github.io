@@ -24,7 +24,7 @@ Check out also Diomidis Spinellis' excellent [Advice for writing LaTeX documents
 
 # Fonts and Special Characters
 
-* German-style quotation marks must be used for consistency in latex: `` `quote' `` for single, and `` ````quote'' `` for double
+* German-style quotation marks must be used for consistency in latex: `` `quote' `` for single, and ``` ``quote'' ``` for double
 
 # Language and Structure
 
