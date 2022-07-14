@@ -3,7 +3,7 @@ layout: archive
 title: "Writing Style Guide"
 permalink: /writing-style-guide/
 author_profile: true
-date: 2019-06-21
+date: 2022-07-14
 ---
 
 This is a short writing style guide I put together after spotting a number of issues repeating across many reports on all levels (BSc, MSc, PhD). Do keep in mind that this guide is not definite, and definitely biased towards my preferences. 
