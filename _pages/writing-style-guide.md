@@ -19,6 +19,8 @@ Check out also Diomidis Spinellis' excellent [Advice for writing LaTeX documents
 * Sections with single subsections (e.g. Section 2.2 has only one subsection e.g. 2.2.1) must be avoided by merging the subsection into the section, removing the numbering from the subsection level, or spinning the subsection into its own section if possible
 * Section numbering should finish at sub-section level; everything after that should appear as unnumbered except if the template used explicitly requests it (subsubsection at worst)
 * Figures and other floats must not be orphans (i.e. alone in a page) except if absolutely necessary e.g. due to their size
+* LaTeX works best if you let it decide where to place floats for optimizing space. A manuscript is not a web page: trying to create a flow of text and floats by using `[h]` or `[H]` is simply not recommended; there is a reason why most publishers' templates allow only top placement for floats
+* As above but even more so for enforcing placement with e.g. `[h!]`. Only deploy if you know exactly what you are doing and why you are doing it
 * Make sure that the font in any figure is at least as big as the caption size
 * Captions must be self-descriptive and -contained
 
