@@ -3,7 +3,7 @@ layout: archive
 title: "Writing Style Guide"
 permalink: /writing-style-guide/
 author_profile: true
-date: 2022-07-14
+date: 2022-07-15
 ---
 
 This is a short writing style guide I put together after spotting a number of issues repeating across many reports on all levels (BSc, MSc, PhD). Do keep in mind that this guide is not definite, and definitely biased towards my preferences. 
@@ -39,6 +39,7 @@ Check out also Diomidis Spinellis' excellent [Advice for writing LaTeX documents
 * The use of signposting sentences (the previous chapter discussed X, this chapter discusses Y) is strongly recommended for chapter openings, comes in handy at section openings when the previous section was too long or when the section being opened deviates the narrative flow; any use of it below this level is probably excessive and patronizing to the reader
 
 # Common Mistakes
-* extend is the verb, extent is the noun
+* extend is the verb (eg we extend this method), extent is the noun (eg to the extent of our knowledge)
+* something consists _of_ something else, something constitutes something else (without a preposition)
 
 
