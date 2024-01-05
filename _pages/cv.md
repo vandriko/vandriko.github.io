@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can access my full CV [here](http://vandriko.github.io/files/Vasilios_Andrikopoulos_CV_public.pdf). A short summary follows:
+You can access my (currently outdated) full CV [here](http://vandriko.github.io/files/Vasilios_Andrikopoulos_CV_public.pdf). A short summary follows:
 
 Education
 ======
@@ -22,7 +22,8 @@ Scholarships
 
 Work experience
 ======
-* Nov. 2016 - today: Assistant professor (tenure track) in the [Software Engineering and Architecture group](http://www.cs.rug.nl/search/Main/HomePage) of the Computer Science Department at the University of Groningen.
+* Oct. 2022 - today: Associate professor (tenure track) in the [Software Engineering and Architecture group](https://search-rug.github.io/) of the Computer Science Department at the University of Groningen.
+* Nov. 2016 - Sep. 2022: Assistant professor (tenure track) in the [Software Engineering and Architecture group](https://search-rug.github.io/) of the Computer Science Department at the University of Groningen.
 * Sep. 2011 - May 2016: Postdoc at the [Institute of Architecture of Application Systems (IAAS)](http://www.iaas.uni-stuttgart.de/), University of Stuttgart, Germany
   * Leader of the Cloud Infrastructure research group
   * Worked for projects [4Caast](http://www.4caast.eu/) and [ALLOW Ensembles](http://www.allow-ensembles.eu/) 
