@@ -4,7 +4,7 @@ version: 1.0
 collection: projects
 permalink: /projects/STQ
 excerpt: "Senior Teaching Qualification (STQ) project at the University of Groningen"
-date: January 2026
+date: 2026-01-30
 ---
 
 _Preamble:_ My [**Senior Teaching Qualification (STQ)**](https://www.rug.nl/fse/education/sse/clt-new/clt/services/stq/stq-index?lang=en) project at the University of Groningen is concerned with the topic of _curriculum (re)design_, and in particular with how to include students in this process in a productive and efficient manner. The document discussed below consistutes version 1.0 of one of the deliverables of this project. It will be updated in the following months as the best practices discussed below are shared with other programmes in the Faculty of Science and Engineering of the University.
@@ -32,6 +32,7 @@ The redesign process was initiated following the accreditation visitation of the
  
 This process started at the end of 2019 and was implemented in staggered steps of deployment starting with the first two years of the Bachelor's being rolled out for the 2022/23 academic year. It was considered finalized in the academic year 2025/26 with the complete rollout of the new curricula for both programmes. 
 
+---
 ## Catalog of Best Practices
 
 For each best practice (bp) in the catalog we provide:
